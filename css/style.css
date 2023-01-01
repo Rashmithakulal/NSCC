@@ -1057,7 +1057,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #team .member .pic:hover {  
   padding: 10px;
-  color: rgb(250, 247, 247);
+  color: rgb(255, 255, 255);
   margin-left: -0px;
   opacity:0.9;
   transform: translateX(0px) rotate(0deg);
@@ -1089,7 +1089,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #team .member .social a {
-  color: #b3b3b3;
+  color: #878585;
 }
 
 #team .member .social a:hover {
