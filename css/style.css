@@ -1037,6 +1037,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #team {
   padding: 60px 0;
   overflow: hidden;
+  
 }
 
 #team .member {
@@ -1051,12 +1052,12 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #team .member .pic img {
-  max-width: 100%;
+  max-width: 80%;
 }
 
 #team .member .pic:hover {  
   padding: 10px;
-  color: white;
+  color: rgb(250, 247, 247);
   margin-left: -0px;
   opacity:0.9;
   transform: translateX(0px) rotate(0deg);
@@ -1092,12 +1093,14 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #team .member .social a:hover {
-  color: #1dc8cd;
+  color: #11989c;
 }
 
 #team .member .social i {
-  font-size: 180px;
+  font-size: 100px;
   margin-left:-20px;
+  text-align: center;
+  margin-top: 50px;
 }
 
 
@@ -1174,6 +1177,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding: 60px 0;
   overflow: hidden;
 }
+
 
 #contact .contact-about h3 {
   font-size: 36px;
@@ -1293,7 +1297,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     margin-top: 0;
   }
   #contact #logo img {
-    max-height: 40px;
+    max-height: 50px;
   }
 }
 
